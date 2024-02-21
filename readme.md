@@ -62,8 +62,8 @@ https://learning.intersystems.com/course/view.php?id=1108
 #### ★Controlling API Traffic with API Manager
 https://learning.intersystems.com/course/view.php?id=1435
 
-### 〇★コンテナ
-#### Deploying InterSystems IRIS in Containers and the Cloud
+### コンテナ
+#### 〇★Deploying InterSystems IRIS in Containers and the Cloud
 https://learning.intersystems.com/course/view.php?id=2141
 
 [日本用パスページ](/DeployingIRISContainerAndCloud.md)
@@ -117,12 +117,12 @@ https://learning.intersystems.com/course/view.php?id=2369
 
 [日本用パスページ](/BuidlingServerSideAppWithInterSystems.md)
 
-#### 〇Configuring InterSystems IRIS Applications for Client Access  →　Architectと同じ
+#### Configuring InterSystems IRIS Applications for Client Access  →　Architectと同じ
 https://learning.intersystems.com/course/view.php?id=1975
 
 [日本用パスページ](/IRISAppForClientAccess.md)
 
-#### 〇Connecting .NET Applications to InterSystems Products  →　Architectと同じ
+#### Connecting .NET Applications to InterSystems Products  →　Architectと同じ
 https://learning.intersystems.com/course/view.php?id=968
 
 [日本用パスページ](/dotNetApptoISCProducts.md)
