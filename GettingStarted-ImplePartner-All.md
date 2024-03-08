@@ -54,15 +54,15 @@ InterSystems IRIS で ObjectScript を使用して高性能なアプリケーシ
 
 - [ビデオ（英語）InterSystems Architecture Overview](https://learning.intersystems.com/course/view.php?name=Architecture%20Overview)
 
-- [オンラインラーニング（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
+- [オンラインコース（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
 
-- [オンラインラーニング（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
+- [オンラインコース（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
 
-- [オンラインラーニング（英語）:InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)
+- [オンラインコース（英語）:InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)
 
-- [オンラインラーニング（英語）：InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
+- [オンラインコース（英語）：InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
 
-- [オンラインラーニング（英語）:Using JSON in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=JSON%20in%20IRIS)
+- [オンラインコース（英語）:Using JSON in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=JSON%20in%20IRIS)
 
 - [演習環境付き演習：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
 
@@ -112,7 +112,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     演習内容👉http://github.com/intersystems/Samples-Integration-RedLights
 
-- [オンラインラーニング（英語）:Integration Architecture](https://learning.intersystems.com/course/view.php?id=908)
+- [オンラインコース（英語）:Integration Architecture](https://learning.intersystems.com/course/view.php?id=908)
 
     InterSystems IRIS®データプラットフォーム、InterSystems HealthShare®、InterSystems Ensemble®の統合機能の基本的なアーキテクチャを学習します。これらのコンポーネントを通じてデータがどのように流れ、システム間の相互運用が可能になるかを学びます。
 
@@ -137,7 +137,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 - [ビデオ（英語）Building BPL Business Processes (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2030)
 
     《サンプルと記事を読みながら学習する場合》
-    ※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+    ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・プロセス）](https://jp.community.intersystems.com/node/483171)
 
@@ -146,7 +146,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     このビデオの日本語字幕あってもいいかも＋日本語記事書いてサンプル掲載しても面白いかも。
 
-- [オンラインラーニング（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
+- [オンラインコース（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
 
     グラフィカルな管理ポータル・インタフェースを使用して、データ変換を作成する方法を学びます。フィールドをマップする方法、フィールドを変更する関数を使用する方法、およびフィールドの値としてリテラルを使用する方法をご覧ください。最後に、変換をテストして実装する方法を学びます。
 
@@ -161,18 +161,18 @@ FHIR® HL7® V2 コンポーネントなど、多くのビルド済みビジネ�
 
     上記ビデオに対応しそうな記事👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
 
-- [オンラインラーニング（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
+- [オンラインコース（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
 
-- [オンラインラーニング（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
+- [オンラインコース（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
     《サンプルと記事を読みながら学習する場合》
-    ※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+    ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・サービス）](https://jp.community.intersystems.com/node/483186)
 
 
-- [オンラインラーニング（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
+- [オンラインコース（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
 
     APIファーストのステップで作るCoffee Maker API
 
@@ -292,7 +292,7 @@ InterSystems Reports と InterSystems IRIS Adaptive Analytics は、レポート
     これは岩本さんの説明ビデオは？
     - [InterSystems IRIS Adaptive Analyticsのご紹介（2021年10月12日開催）](https://www.youtube.com/watch?v=8j6iqmT13XI&list=PLzSN_5VbNaxBlWFxRfrrrScerJrpo7xjr&index=3)
 
-- [オンラインラーニング（英語）：InterSystems IRIS Adaptive Analytics Essential](https://learning.intersystems.com/course/view.php?name=AdaptiveAnalyticsEssentials)
+- [オンラインコース（英語）：InterSystems IRIS Adaptive Analytics Essential](https://learning.intersystems.com/course/view.php?name=AdaptiveAnalyticsEssentials)
 
 
 
@@ -308,11 +308,11 @@ InterSystems Reports と InterSystems IRIS Adaptive Analytics は、レポート
 
 - [ドキュメント：高可用性を実現するためのフェイルオーバー方法](https://docs.intersystems.com/irislatestj/csp/docbook/Doc.View.cls?KEY=GHA_failover)
 
-- [オンラインラーニング（英語）:Introduction to Sharding in InterSystems IRIS](https://learning.intersystems.com/enrol/index.php?id=1181)
+- [オンラインコース（英語）:Introduction to Sharding in InterSystems IRIS](https://learning.intersystems.com/enrol/index.php?id=1181)
 
     InterSystems IRIS® データ・プラットフォームの水平スケーラビリティ機能であるシャーディングについて学び、この機能を使ってシステム・パフォーマンスを向上させる方法を学びます。このコースには、2 つの説明レッスンといくつかのクイズ問題が含まれています。ビデオはフルスクリーンモードでご覧ください。
 
-- [オンラインラーニング（英語）:Sharding Basics: Planning and Deploying](https://learning.intersystems.com/course/view.php?name=Sharding%20Basics)
+- [オンラインコース（英語）:Sharding Basics: Planning and Deploying](https://learning.intersystems.com/course/view.php?name=Sharding%20Basics)
 
     シャーディングは、システムの水平スケーリングに効果的なアプローチです。InterSystems IRIS® データ・プラットフォームを使ってシャーディング・クラスターを計画し、展開する方法をご紹介します。
 

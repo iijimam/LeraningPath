@@ -21,7 +21,7 @@
 
 ## 2. アナライザの使用
 
-- [オンラインラーニング（英語）:InterSystems IRIS BI: Analyzer](https://learning.intersystems.com/enrol/index.php?id=1734)
+- [オンラインコース（英語）:InterSystems IRIS BI: Analyzer](https://learning.intersystems.com/enrol/index.php?id=1734)
 
     InterSystems IRIS® Business Intelligence の Analyzer ツールを使用して、ダッシュボードに表示するピボット・テーブルを作成する方法を説明します。このビデオでは、Analyzer ツールの主要コンポーネントを紹介し、ピボット・テーブルの作成方法を示します。
 

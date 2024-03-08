@@ -73,7 +73,7 @@ InterSystems IRISのアーキテクチャと、システム管理に役立つツ
 ## 4. 高可用性の維持
 冗長性と自動監視を組み込むことで、システムを効果的に稼働させ続ける方法を学びましょう。
 
-- [オンラインラーニング(英語）:Backup and Restore](https://learning.intersystems.com/course/view.php?name=Backup%20and%20Restore)
+- [オンラインコース(英語）:Backup and Restore](https://learning.intersystems.com/course/view.php?name=Backup%20and%20Restore)
 
     InterSystems IRIS® データ・プラットフォーム・システムのバックアップとリストアの方法、および効果的なバックアップ戦略の設計について説明します。
 

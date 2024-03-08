@@ -37,7 +37,7 @@ FHIRの基本的な知識について確認するため、以下のビデオを�
 ## 2. FHIRデータを送受信するためのRESTの使用方法
 インターシステムズのデータ・プラットフォームで REST エンドポイントを設定し、REST を使用した FHIR 相互運用性アダプタを使用して外部の FHIR サーバとやり取りする方法を確認し、FHIR レスポンス・メッセージを入力して REST 経由で FHIR データを送信する練習をします。
 
-- [オンラインラーニング（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
+- [オンラインコース（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
 
     APIファーストのステップで作るCoffee Maker API
 
@@ -66,7 +66,7 @@ FHIRの基本的な知識について確認するため、以下のビデオを�
 
 - [ドキュメント：SDAドキュメント](https://docs.intersystems.com/irisforhealthlatestj/csp/docbook/DocBook.UI.Page.cls?KEY=HXSDA_ch_sda)
 
-- [オンラインラーニング（英語）:Transforming Data into the HL7 FHIR Format](https://learning.intersystems.com/course/view.php?name=FHIRTransformations)
+- [オンラインコース（英語）:Transforming Data into the HL7 FHIR Format](https://learning.intersystems.com/course/view.php?name=FHIRTransformations)
 
     InterSystems IRIS for Health™ または HealthShare® Health Connect を使用して、医療システム間のデータ交換に一般的に使用されている HL7® FHIR® フォーマットにデータを変換する方法をご覧ください。次に、ダイナミックオブジェクトを使用して FHIR データを操作する方法を学びます。
 

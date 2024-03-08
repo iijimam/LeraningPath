@@ -271,7 +271,7 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 ## 8. システムの継続性を実現する方法
 ミラーリング、定期的なバックアップ、ジャーナリングによる高可用性の実装方法を学びます。
 
-- [オンラインラーニング(英語）:Backup and Restore](https://learning.intersystems.com/course/view.php?name=Backup%20and%20Restore)
+- [オンラインコース(英語）:Backup and Restore](https://learning.intersystems.com/course/view.php?name=Backup%20and%20Restore)
 
     InterSystems IRIS® データ・プラットフォーム・システムのバックアップとリストアの方法、および効果的なバックアップ戦略の設計について説明します。
 
@@ -344,7 +344,7 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 ## 11. 演習
 あなたのスキルを総動員して、基本的なシステム管理作業を実際にやってみましょう。
 
-- [演習環境付きオンラインラーニング（英語）:Performing Common InterSystems IRIS Management Tasks](https://learning.intersystems.com/enrol/index.php?id=1945)
+- [演習環境付きオンラインコース（英語）:Performing Common InterSystems IRIS Management Tasks](https://learning.intersystems.com/enrol/index.php?id=1945)
 
 　これは何か日本語で同じことをできるように資料なり用意したいかも
 

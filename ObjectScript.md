@@ -18,9 +18,9 @@ ObjectScriptの概要を読み、変数、式、コマンドなど、このプ�
 
 - [ドキュメント：ObjectScriptの概要](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GCOS_intro)
 
-- [オンラインラーニング：InterSystems ObjectScript Basics（英語）](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
+- [オンラインコース：InterSystems ObjectScript Basics（英語）](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
 
-    オンラインラーニングを通して以下の内容を学習できます。
+    オンラインコースを通して以下の内容を学習できます。
     - InterSystems ObjectScript における変数の型付け方法
     - 変数の型に関する詳細情報をドキュメントから検索する方法
     - 変数の設定、変数の内容の確認、および変数のメモリからの削除を行うための set、write、kill の使用方法
@@ -74,7 +74,7 @@ ObjectScript でよく使用されるデータ型や、さまざまなカテゴ�
 ## 4. クラス定義の作成
 ObjectScript の基本を学んだところで、Visual Studio Code で最初のクラス定義を作成します。
 
-- [オンラインラーニング:Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
+- [オンラインコース:Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
 
 
 以下動画から、クラス定義の作成からインスタンス生成、保存までの流れを確認できます。

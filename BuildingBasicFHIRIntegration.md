@@ -13,7 +13,7 @@ InterSystems製品を利用したシステム統合処理についての前提�
 
     [7:03～ ネームスペースとデータベースについて](https://www.youtube.com/watch?v=ID6ImJTgJRk&t=423s)
 
-- [オンラインラーニング（英語）：Integration Architecture（英語）](https://learning.intersystems.com/course/view.php?name=Integration%20Architecture)
+- [オンラインコース（英語）：Integration Architecture（英語）](https://learning.intersystems.com/course/view.php?name=Integration%20Architecture)
 
     上記内容をカバーできそうな日本語コンテンツ
     
@@ -79,7 +79,7 @@ InterSystems IRIS for Health を使用して、サマリー・ドキュメント
 
 - [ビデオ：What is SDA?](https://learning.intersystems.com/course/view.php?id=2128)
 
-- [オンラインラーニング：Transforming Data into the HL7 FHIR Format](https://learning.intersystems.com/course/view.php?id=2149)
+- [オンラインコース：Transforming Data into the HL7 FHIR Format](https://learning.intersystems.com/course/view.php?id=2149)
 
     InterSystems IRIS for Health™ または HealthShare® Health Connect を使用して、医療システム間のデータ交換に一般的に使用されている HL7® FHIR® フォーマットにデータを変換する方法をお試しいただけます。その後、動的オブジェクトを使用してFHIRデータを操作する方法を学びます。コースの終わりには、実習でHL7 V2リソースをFHIRフォーマットに変換するための本番環境のセットアップを完了します。
 
@@ -126,7 +126,7 @@ CRUDインタラクションの実行-クライアントアプリケーション
 
 InterSystems API Manager を使用して FHIR エンドポイントへのトラフィックを制御する方法と、トラブルシューティングのテクニックを紹介します。
 
-> USがさしてる概要ページ　[What is InterSystems API Manager?](https://learning.intersystems.com/course/view.php?name=What%20is%20IAM)　　＋　オンラインラーニング　https://learning.intersystems.com/course/view.php?id=1747
+> USがさしてる概要ページ　[What is InterSystems API Manager?](https://learning.intersystems.com/course/view.php?name=What%20is%20IAM)　　＋　オンラインコース　https://learning.intersystems.com/course/view.php?id=1747
 
     IAM概要とハンズオンがあるといい
     概要説明ページに翻訳つけるだけでもいいかも？？

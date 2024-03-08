@@ -24,7 +24,7 @@ InterSystems製品の相互運用性フレームワークにより、インタ�
 
     演習内容👉http://github.com/intersystems/Samples-Integration-RedLights
 
-- [オンラインラーニング（英語）:Integration Architecture](https://learning.intersystems.com/course/view.php?id=908)
+- [オンラインコース（英語）:Integration Architecture](https://learning.intersystems.com/course/view.php?id=908)
 
     InterSystems IRIS®データプラットフォーム、InterSystems HealthShare®、InterSystems Ensemble®の統合機能の基本的なアーキテクチャを学習します。これらのコンポーネントを通じてデータがどのように流れ、システム間の相互運用が可能になるかを学びます。
 
@@ -45,7 +45,7 @@ InterSystems IRIS に組み込まれているグラフィカル・ツールを�
 
     ↑のビデオほど細かくないのとシンプルなサンプルだけどFAQトピックでこんな日本語記事有→[レコードマップで何ができるか？](https://jp.community.intersystems.com/node/494326)
 
-- [オンラインラーニング（英語）:Building BPL Business Processes](https://learning.intersystems.com/course/view.php?name=Building%20BPL%20Business%20Processes)
+- [オンラインコース（英語）:Building BPL Business Processes](https://learning.intersystems.com/course/view.php?name=Building%20BPL%20Business%20Processes)
 
     管理ポータルのビジネス・プロセス・デザイナーを使用して、BPLビジネス・プロセスを構築する方法を学びます。このコースには、6つのインストラクションレッスンといくつかのクイズ問題が含まれています。ビデオはフルスクリーンモードで見るのが最適です。
 
@@ -55,10 +55,10 @@ InterSystems IRIS に組み込まれているグラフィカル・ツールを�
 
         （日本語コンテンツについては、[はじめに](#1-はじめに)と同じ内容）
 
-    - [オンラインラーニング（英語）:Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
+    - [オンラインコース（英語）:Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
 
         《サンプルと日本語記事を読みながら学習する場合》
-        ※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+        ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
         - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)  
 
@@ -66,7 +66,7 @@ InterSystems IRIS に組み込まれているグラフィカル・ツールを�
 
         このビデオの日本語字幕あってもいいかも＋日本語記事書いてサンプル掲載しても面白いかも。
 
-    - [オンラインラーニング（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
+    - [オンラインコース（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
 
         グラフィカルな管理ポータル・インタフェースを使用して、データ変換を作成する方法を学びます。フィールドをマップする方法、フィールドを変更する関数を使用する方法、およびフィールドの値としてリテラルを使用する方法をご覧ください。最後に、変換をテストして実装する方法を学びます。
 
@@ -80,12 +80,12 @@ InterSystems IRIS に組み込まれているグラフィカル・ツールを�
 
     上記ビデオに対応しそうな記事👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
 
-- [オンラインラーニング（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
+- [オンラインコース（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
 
-- [オンラインラーニング（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
+- [オンラインコース（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
     《サンプルと記事を読みながら学習する場合》
-    ※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+    ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・サービス）](https://jp.community.intersystems.com/node/483186)

@@ -22,7 +22,7 @@ VS Code を使用した InterSystems® 製品の開発方法をご紹介しま�
     《２つのビデオの代用として以下使えるかも》
     - [記事：VSCodeを使ってみよう](https://jp.community.intersystems.com/node/482976)
 
-- [オンラインラーニング（英語）:Installing VS Code and Configuring InterSystems Server Connections](https://learning.intersystems.com/course/view.php?id=1782)
+- [オンラインコース（英語）:Installing VS Code and Configuring InterSystems Server Connections](https://learning.intersystems.com/course/view.php?id=1782)
 
     Visual Studio Code で最新の InterSystems 拡張機能を検索します。VS Code を使用して、InterSystems サーバに接続し、クライアントサイドおよびサーバサイドのソースコードを編集できます。
 
@@ -55,7 +55,7 @@ VS Code を使用した InterSystems® 製品の開発方法をご紹介しま�
     《代用として以下使えるかも》
     - [記事：VSCodeを使ってみよう:3、クラス定義を作ってみる](https://jp.community.intersystems.com/node/482976#3)
 
-- [オンラインラーニング（英語）:Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
+- [オンラインコース（英語）:Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
 
     クラス定義の構造と基本構文、および VS Code での InterSystems クラス定義の開発方法を学習します。また、プロパティ、パラメータ、メソッドなどのクラス・メンバの定義方法についても学習します。
 

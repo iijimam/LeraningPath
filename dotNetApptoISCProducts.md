@@ -25,7 +25,7 @@ ADO.NET、XEP、Entity Framework、または Native API（Native SDK for .NET）
 
 - [.NET 概要（日本語字幕ありのビデオがリンク先）：5分](https://learning.intersystems.com/course/view.php?id=1059)
 
-- [Designing a .NET Connection Strategy（オンラインラーニング：英語）：30分](https://learning.intersystems.com/course/view.php?name=.NET%20Connection%20Strategy)
+- [Designing a .NET Connection Strategy（オンラインコース：英語）：30分](https://learning.intersystems.com/course/view.php?name=.NET%20Connection%20Strategy)
 
 メモ：対応する説明資料あるけどコースにしてない（C#.NET/VB.NET）
 

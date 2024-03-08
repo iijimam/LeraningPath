@@ -19,7 +19,7 @@ InterSystems ObjectScript の使用経験があることを前提としていま
 
 ## 1. Interoperabilityプロダクションとは
 
-- [オンラインラーニング：Receiving and Routing Data in a Production（英語）](https://learning.intersystems.com/course/view.php?name=Interop%20QS)
+- [オンラインコース：Receiving and Routing Data in a Production（英語）](https://learning.intersystems.com/course/view.php?name=Interop%20QS)
 
 - [チュートリアル：InterSystems Interoperability（相互運用性）チュートリアル](https://play.instruqt.com/embed/intersystems/tracks/interop-jp?token=em_nMyn9Z_6s9Tq3KTv)
     
@@ -48,15 +48,15 @@ InterSystems ObjectScript の使用経験があることを前提としていま
 
 プロダクション向けのカスタム・ビジネス・オペレーション、ビジネス・プロセス、ビジネス・サービスを設計、構築する方法を学びます。
 
-《オンラインラーニングで学習する場合（全て英語）》
-- [オンラインラーニング（英語）：Building Custom Business Operations (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2029)
+《オンラインコースで学習する場合（全て英語）》
+- [オンラインコース（英語）：Building Custom Business Operations (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2029)
 
-- [オンラインラーニング（英語）：Building BPL Business Processes (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2030)
+- [オンラインコース（英語）：Building BPL Business Processes (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2030)
 
-- [オンラインラーニング（英語）：Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
+- [オンラインコース（英語）：Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
 《サンプルと記事を読みながら学習する場合》
-※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
 - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
 

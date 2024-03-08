@@ -8,7 +8,7 @@
 
 このラーニング・パスを終了することに加え、以下の講師付きクラスルームトレーニングコースに参加／個別開催の申し込みを行うことを強く推奨します。
 
-内容|クラスルームトレーニング|オンラインラーニング
+内容|クラスルームトレーニング|オンラインコース
 --|--|--
 アプリケーションの開発|[InterSystems SQLの使い方](https://www.intersystems.com/jp/intersystems-sql/)<br> [InterSystems Objectの使い方](https://www.intersystems.com/jp/intersystems-object/)|[アプリケーションの開発](#3-アプリケーションの開発)
 システム統合の構築|[システム統合機能の使い方（3日間）](https://www.intersystems.com/jp/system-integration-tool/)<br>必要に応じてHL7用システム統合機能の使い方](https://www.intersystems.com/jp/course-offerings/hl7-systems-integration-tool/)|[システム統合の構築](#2-システム統合の構築)<br>[カスタムコンポーネントを使用したシステム統合の開発](#4-カスタムコンポーネントを使用したシステム統合の開発)<br>[プロダクションの構築（上級編）](#5-プロダクションの構築上級編)
@@ -26,7 +26,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 ## 1. InterSystems 製品紹介
 ヘルスケア向けのアプリケーションを構築する場合、InterSystems IRIS for Health が最適です。InterSystems IRIS for Health は、InterSystems IRIS をベースに構築されていますが、ヘルスケア環境で役立ついくつかの機能が追加されています。以下のリソースでは、すべてのインターシステムズ製品とその連携について説明します。
 
-- [オンラインラーニング（英語）:Introduction to InterSystems Products and Technologies](https://learning.intersystems.com/course/view.php?name=Intro%20to%20InterSystems%20Products)
+- [オンラインコース（英語）:Introduction to InterSystems Products and Technologies](https://learning.intersystems.com/course/view.php?name=Intro%20to%20InterSystems%20Products)
 
     InterSystems® の製品とテクノロジーの基本を学び、どのような製品が存在し、どのように使用され、技術的な観点以外からどのように比較されるのかを知ることができます。
 
@@ -60,7 +60,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 
 > 以下の内容トレーニングコースで補える（HL7用コース資料更新してない）
 
-- [オンラインラーニング（英語）：Integration Architecture（英語）](https://learning.intersystems.com/course/view.php?name=Integration%20Architecture)
+- [オンラインコース（英語）：Integration Architecture（英語）](https://learning.intersystems.com/course/view.php?name=Integration%20Architecture)
 
     上記内容をカバーできそうな日本語コンテンツ
     
@@ -70,7 +70,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 
     - シリーズ記事：[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：プロダクションとは](https://jp.community.intersystems.com/node/483041)
 
-- [オンラインラーニング（英語）:HL7 Business Services and Business Operations](https://learning.intersystems.com/enrol/index.php?id=1393)
+- [オンラインコース（英語）:HL7 Business Services and Business Operations](https://learning.intersystems.com/enrol/index.php?id=1393)
 
 - [ビデオ（英語）:Getting Started with HL7 V2 Routing Rules](https://learning.intersystems.com/course/view.php?id=1129)
 
@@ -78,7 +78,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 
     > ルールエディタ古い
 
-- [オンラインラーニング（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
+- [オンラインコース（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
 
     グラフィカルな管理ポータル・インタフェースを使用して、データ変換を作成する方法を学びます。フィールドをマップする方法、フィールドを変更する関数を使用する方法、およびフィールドの値としてリテラルを使用する方法をご覧ください。最後に、変換をテストして実装する方法を学びます。
 
@@ -92,7 +92,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 
     >Zセグメントを例に説明
 
-- [オンラインラーニング（英語）:Searching Messages Using the Message Viewer](https://learning.intersystems.com/enrol/index.php?id=1432)
+- [オンラインコース（英語）:Searching Messages Using the Message Viewer](https://learning.intersystems.com/enrol/index.php?id=1432)
 
 - [ビデオ（英語）：Error Handling in HL7 Production](https://learning.intersystems.com/course/view.php?id=1260)
 
@@ -104,7 +104,7 @@ HealthShare製品郡の統合|[HealthShare Unified Care Record Fundamentals](htt
 
     >発生しているエラーを例にプロダクション構成画面の色の違い、Logタブ、メッセージビューワ、キュー、Jobのそれぞれの画面の使い方を説明してる
 
-- [オンラインラーニング（英語）:Designing Healthcare Productions](https://learning.intersystems.com/course/view.php?id=1285)
+- [オンラインコース（英語）:Designing Healthcare Productions](https://learning.intersystems.com/course/view.php?id=1285)
 
     InterSystems HealthShare® でプロダクションを設計するためのベスト・プラクティス (データベース、ネームスペース、コンポーネントの規約を含む) を確認します。HealthShare を開発環境として設定し、プロダクションを構築してテストする方法を学びます。このコースには、3つのレッスンといくつかのクイズが含まれています。ビデオはフルスクリーンモードでご覧ください。
 
@@ -136,17 +136,17 @@ InterSystems IRIS で ObjectScript を使用して高性能なアプリケーシ
 
 - [ビデオ（英語）InterSystems Architecture Overview](https://learning.intersystems.com/course/view.php?name=Architecture%20Overview)
 
-- [オンラインラーニング（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
+- [オンラインコース（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
 
-- [オンラインラーニング（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
+- [オンラインコース（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
 
 - [ドキュメント：クラス・プログラミングの基本的な考え方](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GOBJ_intro)
 
-- [オンラインラーニング（英語）:InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)
+- [オンラインコース（英語）:InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)
 
-- [オンラインラーニング（英語）：InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
+- [オンラインコース（英語）：InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
 
-- [オンラインラーニング（英語）:Using JSON in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=JSON%20in%20IRIS)
+- [オンラインコース（英語）:Using JSON in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=JSON%20in%20IRIS)
 
 - [演習環境付き演習：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
 
@@ -194,19 +194,19 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     上記ビデオに対応しそうな記事👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
 
-- [オンラインラーニング（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
+- [オンラインコース（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
 
 - [ビデオ（英語）Building BPL Business Processes (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2030)
 
 
-- [オンラインラーニング（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
+- [オンラインコース（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
     《サンプルと記事を読みながら学習する場合》
-    ※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+    ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
 
 - 日本用なら《サンプルと記事を読みながら学習する場合》
-※オンラインラーニングのほうが説明が浅く広い（HL7系の話も少し含まれてる）
+※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・プロセス）](https://jp.community.intersystems.com/node/483171)
@@ -216,15 +216,15 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 ## 5. プロダクションの構築（上級編）
 このセクションは、高度な HL7 V2 機能を使用する必要のあるインタフェース・エンジニアやソフ トウェア開発者のために設計されています。
 
-- [オンラインラーニング（英語）:Advanced Data Transformations](https://learning.intersystems.com/enrol/index.php?id=2381)
+- [オンラインコース（英語）:Advanced Data Transformations](https://learning.intersystems.com/enrol/index.php?id=2381)
 
     コードアクション、ユーティリティ関数、ルックアップテーブル、サブトランスフォーメーションなど、管理ポータルの DTL Editor の高度な機能を検討し、それらをデータ変換のロジックに組み込む方法を学びます。
 
-- [オンラインラーニング（英語）:Setting Up Alerts](https://learning.intersystems.com/course/view.php?name=Setting%20Up%20Alerts)
+- [オンラインコース（英語）:Setting Up Alerts](https://learning.intersystems.com/course/view.php?name=Setting%20Up%20Alerts)
 
     管理ポータルを使用して、プロダクションでアラートを構成し、ビジネス・コンポーネントでエラーが発生したり、メッセージがキューに長く留まったりした場合に通知を送信する方法を学びます。
 
-- [オンラインラーニング（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
+- [オンラインコース（英語）:Setting Up RESTful Services](https://learning.intersystems.com/course/view.php?name=REST%20Services)
 
     APIファーストのステップで作るCoffee Maker API
 
@@ -270,9 +270,9 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 注：これらのリソースは、HealthShareの顧客とパートナーだけが利用できます。アクセスできるはずなのにアクセスできない場合は、リンク先の指示に従ってください。
 
-- [オンラインラーニング（英語）:HealthShare Unified Care Record Basics](https://learning.intersystems.com/course/view.php?name=HSUCRBasics)
+- [オンラインコース（英語）:HealthShare Unified Care Record Basics](https://learning.intersystems.com/course/view.php?name=HSUCRBasics)
 
-- [オンラインラーニング（英語）:HealthShare Patient Index Overview](https://learning.intersystems.com/enrol/index.php?id=2135)
+- [オンラインコース（英語）:HealthShare Patient Index Overview](https://learning.intersystems.com/enrol/index.php?id=2135)
 
 - [ラーニング・パス（英語）：Analyzing Data with Health Insight](https://learning.intersystems.com/course/view.php?name=HSHILP)
 

@@ -38,7 +38,7 @@ Embedded Python を使用して、ObjectScript と並行して Python ライブ�
 
 - [演習環境付き演習（ビデオは英語／日本語字幕あり）：Embedded Python QuickStart](https://learning.intersystems.com/course/view.php?name=EmbeddedPythonQS)
 
-- [オンラインラーニング（英語）：Parsing Images and Charting Data with Embedded Python](https://learning.intersystems.com/course/view.php?id=2126)
+- [オンラインコース（英語）：Parsing Images and Charting Data with Embedded Python](https://learning.intersystems.com/course/view.php?id=2126)
 
     同じじゃないけど、このコースをベースに作った記事
 

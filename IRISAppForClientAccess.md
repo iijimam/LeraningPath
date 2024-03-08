@@ -11,7 +11,7 @@ REST経由でアクセスする InterSystems IRIS アプリケーションを外
 Webアプリケーションのバックエンドとして InterSystems IRIS を使用する知識を前提とし、オブジェクトと SQL の使用経験が必要です。必要に応じて、[「InterSystems を使用したサーバサイド・アプリケーションの構築」ラーニング・パス (5h) ](https://learning.intersystems.com/course/view.php?id=2369)をご覧ください。
 
 
-    【自分メモ】オンラインラーニングに含まれる内容  
+    【自分メモ】オンラインコースに含まれる内容  
     アーキテクチャ（NS／DB、マッピングも含まれてた）
     VSCodeを使ってクラス定義作成とデータ作成まで
     ObjectScriptの基本
@@ -43,9 +43,9 @@ InterSystems IRIS で RESTful サービスをセットアップして、Web ア�
 
 Experience　https://learning.intersystems.com/course/view.php?id=2158
 
-オンラインラーニング　https://learning.intersystems.com/course/view.php?name=REST%20Services
+オンラインコース　https://learning.intersystems.com/course/view.php?name=REST%20Services
 
-オンラインラーニングはIRISのRESTサーバの動作の仕組みからExperienceのAngularアプリの説明をしてる＋ビジネスサービスにREST呼び出しをする方法も含まれてる
+オンラインコースはIRISのRESTサーバの動作の仕組みからExperienceのAngularアプリの説明をしてる＋ビジネスサービスにREST呼び出しをする方法も含まれてる
 
     《自分メモ》：フロントのWebアプリ付きの体験なら以下がいい（でも説明がない。あるけど2019のDoc）
     リポジトリ　https://github.com/intersystems/FirstLook-REST
@@ -89,7 +89,7 @@ Experience　https://learning.intersystems.com/course/view.php?id=2158
 
 ## 3. APIの管理
 
-> USがさしてる概要ページ　https://learning.intersystems.com/course/view.php?name=What%20is%20IAM　　＋　オンラインラーニング　https://learning.intersystems.com/course/view.php?id=1747
+> USがさしてる概要ページ　https://learning.intersystems.com/course/view.php?name=What%20is%20IAM　　＋　オンラインコース　https://learning.intersystems.com/course/view.php?id=1747
 
     IAM概要とハンズオンがあるといい
     概要説明ページに翻訳つけるだけでもいいかも？？

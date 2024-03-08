@@ -20,9 +20,9 @@ InterSystems製品の組み込み言語である InterSystems ObjectScript を�
 - オリジナル
     - [ビデオ（英語）InterSystems Architecture Overview](https://learning.intersystems.com/course/view.php?name=Architecture%20Overview)
 
-    - [オンラインラーニング（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
+    - [オンラインコース（英語）：Creating an InterSystems Class Definition in VS Code](https://learning.intersystems.com/course/view.php?name=IRIS%20Class)
 
-    - [オンラインラーニング（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
+    - [オンラインコース（英語）:InterSystems ObjectScript Basics](https://learning.intersystems.com/course/view.php?name=Cach%C3%A9%20ObjectScript%20Basics)
 
 
 
@@ -68,7 +68,7 @@ InterSystems製品の組み込み言語である InterSystems ObjectScript を�
 ## 3. アプリケーションの作成練習
 このパスで学んだスキルを結集して、小さなデータベースアプリケーションを作成しましょう。
 
-[オンラインラーニング：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS（英語）](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
+[オンラインコース：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS（英語）](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
 
 ## 4. 確認
 この最終アセスメントで知識を証明し、バッジを獲得しましょう。このアセスメントにアクセスするには、上記のパスにあるすべてのリソースを完了する必要があります。

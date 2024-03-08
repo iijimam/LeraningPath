@@ -1,6 +1,6 @@
 # InterSystems 製品を習得するためのラーニングパス仮
 
-まずは、[オンラインラーニング](https://learning.intersystems.com/course/view.php?id=243)のページを日本語資料に合わせてみる
+まずは、[オンラインコース](https://learning.intersystems.com/course/view.php?id=243)のページを日本語資料に合わせてみる
 
 大カテゴリ
 ![](/assets/LP-Category1.png)
@@ -174,7 +174,7 @@ https://learning.intersystems.com/course/view.php?id=1809
 #### ★Getting Started with InterSystems for Implementation Partners (Financial Services)
 https://learning.intersystems.com/course/view.php?id=1785
 
-#### 〇★Getting Started with InterSystems for Implementation Partners (Health)
+#### ✖〇★Getting Started with InterSystems for Implementation Partners (Health)　→RETIREDになっていた
 https://learning.intersystems.com/course/view.php?id=1445
 
 [日本用パスページ](/GettingStarted-ImpreParter-Health.md)
@@ -226,7 +226,7 @@ https://learning.intersystems.com/course/view.php?id=1809
 #### Getting Started with InterSystems for Implementation Partners (Financial Services)  →開発と同じ
 https://learning.intersystems.com/course/view.php?id=1785
 
-#### Getting Started with InterSystems for Implementation Partners (Health)  →開発と同じ
+#### Getting Started with InterSystems for Implementation Partners (Health)  →開発と同じ　→RETIREDになっていた
 https://learning.intersystems.com/course/view.php?id=1445
 
 [日本用パスページ](/GettingStarted-ImpreParter-Health.md)
