@@ -26,7 +26,7 @@ InterSystems IRIS® データプラットフォームの基礎と、システム
 
 - [ビデオ（英語）InterSystems Architecture Overview](https://learning.intersystems.com/course/view.php?name=Architecture%20Overview)
 
-    開発系と一緒のビデオで以下の日本語ビデオで対応できそう
+    《相談》開発系と一緒のビデオで以下の日本語ビデオで対応できそうだけど良いかどうか
     - [【はじめての InterSystems IRIS】セルフラーニングビデオ：基本その2：InterSystems IRIS で開発をはじめよう！](https://jp.community.intersystems.com/node/478601)
         
         IRISの開発環境の作成方法、ネームスペース／データベースについて、IDEからIRISに接続する方法を確認できます。
@@ -39,7 +39,7 @@ InterSystems IRIS® データプラットフォームの基礎と、システム
     Windows／Linuxで分けて説明あり。%Statusのエラーの取り方、エラーの表示方法も説明してる。
 - [ビデオ（英語）:Integration overvide:Receiving and Routing Data in a Production](https://learning.intersystems.com/course/view.php?name=Interop%20QS)
 
-    以下でも対応できると思う
+    《相談》以下でも対応できると思うけどいいかどうか（日本語字幕付けたほうがいいかどうか）
 
     - ビデオ：[Interoperability概要](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX&index=1&t=1203s)
 
@@ -68,18 +68,20 @@ InterSystems IRIS コンテナ・イメージから Docker コンテナ内にイ
 
     （ビデオ3つある。最後はICM）
 
-    **日本の記事・ビデオで代用するなら以下？**
+    **《相談》日本の記事・ビデオで代用するなら以下。いいかどうか**
     - [コンテナとIRISのプレイリスト](https://www.youtube.com/watch?v=yY8BLUYp5IA&list=PLzSN_5VbNaxAUiQkx5d22TX0zjx4Mmqhb)
 
 
 - [ビデオ（英語）:Run InterSystems IRIS Community Edition Using Docker](https://learning.intersystems.com/enrol/index.php?id=1762)
 
-    **コミュニティエディションなら以下記事＋ビデオでよい？**
+    **《相談》コミュニティエディションなら以下記事＋ビデオでよい？**
     - [InterSystemsコンテナレジストリの使い方とコンテナ開始までの流れ（解説ビデオ付き）](https://jp.community.intersystems.com/node/545786)
 
 - [ビデオ（英語）：Kubernetes Overview](https://learning.intersystems.com/enrol/index.php?id=1753)
 
     複数のホストにまたがるコンテナのデプロイをオーケストレーションするためのオープンソースプラットフォームであるKubernetesについてご紹介します。InterSystems Kubernetes Operatorにより、InterSystems IRIS®データプラットフォームのユーザは、InterSystems IRISアプリケーションのデプロイメントにおいてKubernetesのメリットを享受することができます。
+
+    《相談》これはないので日本語字幕付けるでOKか
 
 ### ライセンス
 
@@ -104,8 +106,7 @@ InterSystems IRIS コンテナ・イメージから Docker コンテナ内にイ
 
 - [ビデオ（英語）：Configuring the InterSystems Web Gateway](https://learning.intersystems.com/course/view.php?name=ConfigWebGateway)
 
-    日本語のトレーニング資料で古いのはある（KCCS用に作ったやつ）
-    ビデオに日本語字幕付ける？？
+    《相談》日本語のトレーニング資料で古いのはある（KCCS用に作ったやつ）。ビデオに日本語字幕付けるか、既存資料を使って何か作るか
 
 ### ネームスペース
 
@@ -115,7 +116,7 @@ InterSystems IRIS コンテナ・イメージから Docker コンテナ内にイ
 
 - [ビデオ（英語）：Creating Namespaces and Databases](https://learning.intersystems.com/enrol/index.php?id=2124)
 
-    日本ビデオなら以下に含まれている
+    《相談》日本ビデオなら以下に含まれているがいいかどうか
 
     - [【はじめての InterSystems IRIS】セルフラーニングビデオ：基本その2：InterSystems IRIS で開発をはじめよう！](https://jp.community.intersystems.com/node/478601)
 
@@ -141,7 +142,7 @@ InterSystems IRIS コンテナ・イメージから Docker コンテナ内にイ
 
 - [ビデオ（英語）：Users and Roles in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=Users%20Roles%20IRIS)
 
-    日本語字幕なし（付けてもいいかも）
+    《相談》日本語字幕なし（付けてもいいかも）。
 
 ### セキュリティの設定と管理
 
@@ -255,9 +256,9 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 ### SQLパフォーマンスの最適化
 - [ビデオ（英語）：Optimizing Your SQL Queries](https://learning.intersystems.com/course/view.php?id=1013)
 
-    同じような内容の説明は過去のサミットにあるけど最古は2011年。個々にまとまってる👉[クエリをチューニングする方法](https://jp.community.intersystems.com/node/502256)
+    《相談》同じような内容の説明は過去のサミットにあるけど最古は2011年。個々にまとまってる👉[クエリをチューニングする方法](https://jp.community.intersystems.com/node/502256)
 
-        この内容を自習用ビデオにしてもいいのかも？
+        この内容を自習用ビデオにしてもいいのかも？あえて作るかどうか
 
 - [ドキュメント：SQLパフォーマンス分析ツールキット](https://docs.intersystems.com/irislatestj/csp/docbook/Doc.View.cls?KEY=GSOE_profile#GSOE_profile)
 
@@ -285,11 +286,11 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 
     >このオンラインコースは実際の演習は含まれてない。概要を確認するだけ
 
-    この日本語欲しいかも（CSからもあったらいいなリストにバックアップ＆リストアの話が含まれているので、自習用ビデオ＋演習資料の公開があってもいいのかも＝トレーニングでやってるやつでいいならそれで）
+    《相談》この日本語欲しいかも（CSからもあったらいいなリストにバックアップ＆リストアの話が含まれているので、自習用ビデオ＋演習資料の公開があってもいいのかも＝トレーニングでやってるやつでいいならそれで）
 
 - [InterSystems IRISミラーリング](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GHA_failover_mirror)
 
-    三浦さんのビデオあってもいいのでは？
+    《相談》三浦さんのビデオをここにリンクしてもいいのかも
 
     - [ミラーリングを使用したHAおよびDRの構成例](https://www.youtube.com/watch?v=sp5wfKbqHuQ&list=PLzSN_5VbNaxCeC_ibw2l-xneMCwCVf-Or&index=5&t=3s)
 
@@ -316,10 +317,12 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 
 - [ビデオ（英語）:Reviewing the Application Error Log](https://learning.intersystems.com/enrol/index.php?id=1131)
 
-    参考
+    参考（日本オリジナル）
     - [メッセージ・ログ(messages.log)／コンソール・ログ(cconsole.log) に出力される「Purging Application Error Logs」のメッセージとは](https://jp.community.intersystems.com/node/508271)
 
     - [アプリケーションのログを^ERRORSグローバルに入れる方法](https://jp.community.intersystems.com/node/508466)
+
+    《相談》ビデオに翻訳つけるだけで足りるかどうか
 
 - [ビデオ（英語）:Reviewing the Console Log and SYSLOG](https://learning.intersystems.com/course/view.php?id=1133)
 
@@ -330,7 +333,7 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 
     概要のみお読みください
 
-    参考
+    参考（日本オリジナル）
     - [記事＋日本語ビデオ：【IRISベース】トラブル発生時の情報収集方法（IRIS ／ IRIS for Health ／ UCR 編）](https://jp.community.intersystems.com/node/489511)
 
     - [記事＋日本語ビデオ:【Caché ベース】トラブル発生時の情報収集方法（Caché ／ Ensemble ／ HealthConnect 編）](https://jp.community.intersystems.com/node/489516)
@@ -346,7 +349,7 @@ System Alerting & Monitoring (SAM) について学びますが、Splunk や Data
 
 - [演習環境付きオンラインコース（英語）:Performing Common InterSystems IRIS Management Tasks](https://learning.intersystems.com/enrol/index.php?id=1945)
 
-　これは何か日本語で同じことをできるように資料なり用意したいかも
+　《相談》これは何か日本語で同じことをできるように資料なり用意したいかも
 
 ## 12. 次は？
 学習を継続する場合は以下のリソースが最適です。
