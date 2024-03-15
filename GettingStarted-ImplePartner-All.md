@@ -1,5 +1,8 @@
 # インプリメンテーションパートナ向けInterSystems製品をはじめよう（全業種向け）
 
+オリジナル：[https://learning.intersystems.com/course/view.php?id=1809](https://learning.intersystems.com/course/view.php?id=1809)
+
+
 このラーニング・パスでは、InterSystems® の概要、InterSystems 製品とテクノロジのアーキテクチャと機能について説明します。このパスに従うことで、コードの記述、システム統合を構築し、アプリケーションに必要なコンポーネントを作成することを学習できます。
 
 パートナーになることに興味がありますか？[インプリメンテーション・パートナー・プログラムの詳細](https://www.intersystems.com/jp/partners/implementation-partners/)をご覧ください。医療と金融のパートナーは、[インプリメンテーション・パートナー（医療）](https://learning.intersystems.com/course/view.php?id=1809) および[インプリメンテーション・パートナー（金融サービス）](https://learning.intersystems.com/mod/url/view.php?id=10341)のラーニング・パスで業界固有のコンテンツを見つけることができます。
@@ -37,9 +40,13 @@ InterSystems IRIS®データ・プラットフォームは、信頼性の高い�
 
 [ビデオ（英語）InterSystems へようこそ](https://www.youtube.com/watch?v=v4uoejre5IU)
 
-↑こんなビデオ日本でも作ったらいいのに
+《相談》こんなビデオ日本でも作ったらいいのに。日本語字幕でいいかどうか
 
 [ビデオ（英語／日本語字幕あり）What Is InterSystems IRIS?](https://learning.intersystems.com/course/view.php?id=2118)
+
+《相談》翻訳でもよいと思いますが最初に見るものなので、日本語の音声のビデオ作るのはどうでしょう。（このビデオにはNLPの説明も登場）
+
+それか、[医療セミナーの堀田さん＆岩本さんの30分ビデオ](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX)も候補としてありかと思いますが、最初の章立てなので数分のビデオをあえて持ってきてるのかな？という気がします。
 
 ## 2. アプリケーションの構築
 
@@ -64,11 +71,15 @@ InterSystems IRIS で ObjectScript を使用して高性能なアプリケーシ
 
 - [オンラインコース（英語）:Using JSON in InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=JSON%20in%20IRIS)
 
-- [演習環境付き演習：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
+- [演習環境付き演習（オンラインコース）：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
 
     InterSystems IRIS® データプラットフォームと InterSystems ObjectScript を使用して、小規模なデータベースアプリケーションを作成します。この演習では、InterSystems IRIS を使用したサーバサイド・アプリケーションの構築の学習パスで学習したすべてのスキルを結集して、大規模な書籍コレクションに関する情報を格納および取得するためのクラスを作成し、SQL を使用します。この演習は、既存の知識をテストするために学習パスを開始する前に、またはキャップストーン・プロジェクトとして最後にお試しください。
 
-### 対応できそうな日本語コンテンツ
+#### 上のオリジナルに対応できそうな日本語コンテンツ（このままで良しとするかどうか）
+
+___
+《相談》オリジナルには「演習環境付き演習」があり、学習したことを事前準備なしに試せる環境がある。日本でもやりたいけどオンラインコースなので画面翻訳しながら使ってもらうことになる。インストール方法（コンテナ含）のビデオがあるのでそれを見て自分で作ってやってみて、でもいいなら、オンラインコースと同じような中身を演習環境をGitにするか・しないか
+___
 
 以下動画から、IRISの開発環境の作成方法、ネームスペース／データベースについて、IDEからIRISに接続する方法を確認できます。
 - [【はじめての InterSystems IRIS】セルフラーニングビデオ：基本その2：InterSystems IRIS で開発をはじめよう！](https://jp.community.intersystems.com/node/478601)
@@ -93,12 +104,15 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 
 ### 認定テスト受験の準備が整ったら
+___
+《相談》英語のテストなのと監督官の監視も外国の人なので、掲載しないほうがいい？
+___
 
 インターシステムズ・ラーニング・サービスは、業界標準の認定試験を提供し、あなたがインターシステムズの技術を習得していることを証明します。当社の試験は、安全なオンライン試験監督とセルフサービス予約で提供されます。受験者は、いつでもどこでも、都合のよいときに試験を受けることができます。
 
-※英語
+※英語：[Exam: InterSystems IRIS Core Solutions Developer Specialist](https://www.intersystems.com/education/)
 
-[Exam: InterSystems IRIS Core Solutions Developer Specialist](https://www.intersystems.com/education/)
+
 
 ## 3. 他のシステムとの統合
 
@@ -106,11 +120,15 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 - [体験環境付き演習：Receiving and Routing Data in a Production](https://learning.intersystems.com/course/view.php?name=Interop%20QS)
 
-    この中のビデオは日本語字幕あり。この演習はレコードマップとBPL使う演習。コード書かない
+    《相談》この中のビデオは日本語字幕あり。画面全体は英語なので画面ホウン訳しかない。演習内容はレコードマップとBPL使う演習。コード書かない
     
     ここに演習概要説明あり（Interoperability QuickStartのところ）👉　https://www.intersystems.com/jp/quickstart/
 
     演習内容👉http://github.com/intersystems/Samples-Integration-RedLights
+
+    ___
+    《相談》Gitがあるから日本語README追加してもらって操作解説入れるとかはできるかもしれない。
+    ___
 
 - [オンラインコース（英語）:Integration Architecture](https://learning.intersystems.com/course/view.php?id=908)
 
@@ -118,7 +136,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     このコースには、3 つのレッスンと数問のクイズが含まれています。ビデオはフルスクリーンモードでご覧ください。
 
-    **上記内容をカバーできそうな日本語コンテンツ**
+    **《相談》上記内容をカバーできそうな日本語コンテンツ（これでいいかどうか）**
     
     - ビデオ：[Interoperability概要](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX&index=1&t=1203s)
    
@@ -128,15 +146,18 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 - [ビデオ（英語）：Record Mapper Introduction](https://learning.intersystems.com/enrol/index.php?id=1094)
 
-    ↑のビデオほど細かくないのとシンプルなサンプルだけどFAQトピックでこんな日本語記事有→[レコードマップで何ができるか？](https://jp.community.intersystems.com/node/494326)
+    《相談》このビデオほど細かくないのとシンプルなサンプルだけどFAQトピックでこんな日本語記事有→[レコードマップで何ができるか？](https://jp.community.intersystems.com/node/494326)
 
 - [ビデオ（英語）:Using the Complex Record Mapper](https://learning.intersystems.com/enrol/index.php?id=1426)
 
     日本語無し
 
+    《相談》ビデオに日本語字幕を付けるか、同じようなビデオか何かを日本で用意するかどうか
+    
+
 - [ビデオ（英語）Building BPL Business Processes (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2030)
 
-    《サンプルと記事を読みながら学習する場合》
+    《相談》サンプルと記事を読みながら学習する場合でも良い場合は以下
     ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・プロセス）](https://jp.community.intersystems.com/node/483171)
@@ -144,7 +165,7 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
 - [ビデオ（英語）:Setting Up Business Rules](https://learning.intersystems.com/course/view.php?id=1295)
 
-    このビデオの日本語字幕あってもいいかも＋日本語記事書いてサンプル掲載しても面白いかも。
+    《相談》このビデオの日本語字幕あってもいいかも＋日本語記事書いてサンプル掲載しても面白いかも。
 
 - [オンラインコース（英語）:Data Transformations Basics](https://learning.intersystems.com/enrol/index.php?id=1170)
 
@@ -152,20 +173,23 @@ InterSystems製品でのJSON操作については、以下記事をご参照く�
 
     >メモ：前提知識にHL7が含まれている。HL7で流れるデータを使って変換書いてる。HL7によってるので、医療以外の人には良くなさそう
 
+    《相談》DTLを使うには良いと思うけど、HL7使わない人向けに何かオリジナルでビデオ解説＋説明＋サンプル作ったほうがいいかどうか。（DTL単体で作ってテストができるので部品としての紹介にはいいかもしれない）
+
 ## 4. カスタムコンポーネントを使用したシステム統合の開発
 FHIR® HL7® V2 コンポーネントなど、多くのビルド済みビジネスコンポーネントが開発者に提供されています。これだけでは不十分な場合は、カスタムコンポーネントを構築して、データの取り込み方法を完全にカスタマイズすることができます。
 
 - [ビデオ（英語）：Building Custom Production Messages](https://learning.intersystems.com/course/view.php?name=Custom%20Messages)
 
-    ↑字幕なし＋Atelier登場
+    字幕なし＋Atelier登場
 
-    上記ビデオに対応しそうな記事👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
+    《相談》上記ビデオに対応しそうな記事。これでいいかどうか。👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
 
 - [オンラインコース（英語）：Building Custom Business Operations](https://learning.intersystems.com/course/view.php?name=Building%20Custom%20Business%20Operations)
 
 - [オンラインコース（英語）:Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
-    《サンプルと記事を読みながら学習する場合》
+    《相談》コースじゃないけどサンプルと記事を読みながら学習する場合以下。
+
     ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
     - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
@@ -176,7 +200,7 @@ FHIR® HL7® V2 コンポーネントなど、多くのビルド済みビジネ�
 
     APIファーストのステップで作るCoffee Maker API
 
-    《サンプルと記事を読みながらの学習なら》
+    《相談》サンプルと記事を読みながらの学習でいいなら以下。
     - [【はじめてのInterSystems IRIS】セルフラーニングビデオ：アクセス編：（REST）APIファーストで作成するRESTディスパッチクラス](https://jp.community.intersystems.com/node/479596)
 
     - [REST経由で情報を入力する場合の Interoperability（相互運用性機能）のサンプル](https://jp.community.intersystems.com/node/559356)　
@@ -187,6 +211,7 @@ FHIR® HL7® V2 コンポーネントなど、多くのビルド済みビジネ�
 
     Production EXtension フレームワーク (PEX) を使用すると、ObjectScript を学習することなく、.NET または Java でカスタム相互運用性コンポーネントを構築できます。PEX を使用すると、使い慣れた言語でコーディングし、確立されたコードライブラリを活用して、プロダクションにコンポーネントを追加できます。PEX を使用してプロダクションを構築する方法については、オンラインコース（英語）[「Creating Interoperability Productions Using PEX」（1 時間）](https://learning.intersystems.com/course/view.php?name=PEXInteroperabilityProductions)を受講してください。
 
+    《相談》ビデオもコースもないのでどうするか。（ビデオは日本語字幕付ける、はできる）
 
 ## 5. 他言語を使用したデータアクセス
 
@@ -194,6 +219,7 @@ InterSystems IRIS では、Java、Python、Node.js、.NET などの言語用の�
 
 - [ビデオ（英語／日本語字幕あり）Using JDBC with InterSystems IRIS](https://learning.intersystems.com/enrol/index.php?id=881)
 
+    《相談》字幕のビデオでいいかどうか
 
 ## 6. APIの管理
 InterSystems API Manager が提供するツールを参照してください：
@@ -204,7 +230,7 @@ InterSystems API Manager が提供するツールを参照してください：
 
 - [ビデオ（英語）:What is InterSystems API Manager?](https://learning.intersystems.com/course/view.php?name=What%20is%20IAM)
 
-    日本語資料なら以下？
+    《相談》ビデオの字幕追加は可。日本語資料なら以下でもよい気が。
 
     - [ゼロから使いこなす IAM（InterSystems API Manager）](https://jp.community.intersystems.com/node/493416)
 
@@ -213,13 +239,15 @@ InterSystems API Manager が提供するツールを参照してください：
 
     InterSystems API Manager バージョン 1.5+ のインストール手順、InterSystems IRIS® データベース・プラットフォーム・インスタンスとホスト・システムの準備方法、および API Manager インストール・キットで提供されるスクリプトの実行方法について説明します。
 
-    ※古いけど同じ方法なのか？（2024年1月19日時点：IAM 3.4）
+    《相談と確認必要》※古いけど同じ方法なのか？（2024年1月19日時点：IAM 3.4）日本語字幕付けるほうがいいかどうか
 
 - [演習環境付き演習（英語）:Hands-On with InterSystems API Manager for Developers](https://learning.intersystems.com/course/view.php?name=IAMExercise)
 
     InterSystems API Manager を使用して、InterSystems IRIS® データ・プラットフォーム内のコーヒー・メーカー・アプリケーションの API を管理します。
 
     前提学習または経験 コンテナと Docker の基本的な知識。REST と HTTP リクエスト・レスポンス・ステータス・コードの基礎知識
+
+    《相談》バージョン古いけど、 [ゼロから使いこなす IAM（InterSystems API Manager）](https://jp.community.intersystems.com/node/493416)も演習資料みたいになってるので代用できないかどうか（現バージョンでも同じように使えるか確認は必要）
     
 
 ## 7. 既存システムからの移行
@@ -239,8 +267,8 @@ InterSystems IRISに組み込まれたInterSystems IRIS Business Intelligenceは
 
 - [ビデオ（英語）:InterSystems IRIS BI: Analyzer](https://learning.intersystems.com/course/view.php?name=IRISBIAnalyzer)
 
-    あっさりした説明だけど、コミュニティのこのビデオ使えるかどうか
-    (アーキテクト画面使ったキューブの作成、アナライザ画面使ったピボットの作成、ダッシュボード画面使ったユーザポータル作成ある)
+    《相談》以下、あっさりした説明だけど、コミュニティのこのビデオ使えるかどうか
+    (アーキテクト画面使ったキューブの作成、アナライザ画面使ったピボットの作成、ダッシュボード画面使ったユーザポータル作成ある)。使えない場合は上記ビデオに日本語字幕付けまくる？
 
     [開発テンプレート（IRIS Analytics Template）の使い方のご紹介（第8回 InterSystems IRIS Analytics コンテスト）](https://jp.community.intersystems.com/node/484826)
 
@@ -250,13 +278,14 @@ InterSystems IntegratedML は、SQL 開発者が、従来の専門知識やリ�
 
 - [ビデオ（英語）:What Is IntegratedML?](https://learning.intersystems.com/course/view.php?name=What%20is%20IntegratedML)
 
-    こっちのほうがいいような
+    《相談》上記ビデオよりも以下のほうがいいけど、短く見てもらいたい、という場合には上のビデオに字幕付けてみてもらうとか。
+
     - [SQLから始める機械学習 ～　IntegratedMLのご紹介　～（2021年10月19日開催）](https://www.youtube.com/watch?v=3yLK9kBs4ic&list=PLzSN_5VbNaxC-z6_DKUZuO__zyudjLE-g&index=2)
 
 
 - [ビデオ（英語）:Using IntegratedML with DataRobot](https://www.youtube.com/watch?v=pyaRlb2ExDU)
 
-    同じ内容かわからないけど堀田さんのデモあり
+    《相談》同じ内容かわからないけど堀田さんのデモあり
     - [IntegratedMLとDataRobotの連携](https://www.intersystems.com/jp/integratedml-datarobot-demo/)
 
         ※この連携は今も有効なのか？
@@ -265,16 +294,19 @@ InterSystems IntegratedML は、SQL 開発者が、従来の専門知識やリ�
 
     このインフォグラフィックは、データを準備するための基本的なステップと、IntegratedML がそのプロセスをどのように効率化できるかを示しています。データを準備することは、アプリで機械学習を活用するための重要なステップです。
 
+    《相談》ここはどうすることもできない・・・・日本語化したページを用意してもらう？（できるか未確認）
+
 - [インフォグラフィック（英語）:Common Supervised Machine Learning Algorithms](https://learning.intersystems.com/course/view.php?name=Machine%20Learning%20Algorithms)
 
+    《相談》ここはどうすることもできない・・・・日本語化したページを用意してもらう？（できるか未確認）
 
-    インフォグラフィックのところ、堀田さんの以下ビデオで良いような？
+    もしくは、インフォグラフィックのところ、堀田さんの以下ビデオで良いような？
     - [機械学習101（2023年11月29日開催　インターシステムズ開発者ウェビナー）](https://www.youtube.com/watch?v=47bP5-AtBVU&list=PLzSN_5VbNaxC-z6_DKUZuO__zyudjLE-g)
 
 
 - [演習環境付き演習（英語）:Hands-On with IntegratedML](https://learning.intersystems.com/course/view.php?name=HandsOnIntegratedML)
 
-    チュートリアルでも良い？
+    《相談》ここはチュートリアルでも良い気がする
     - [記事:機械学習を試せるチュートリアル：IntegratedML](https://jp.community.intersystems.com/node/537501)
 
 
@@ -285,15 +317,21 @@ InterSystems Reports と InterSystems IRIS Adaptive Analytics は、レポート
 
     Logi Analytics が提供する InterSystems Reports は、データのビジュアルレポートを迅速に作成・表示できるレポート作成ツールです。このビデオでは、InterSystems Reports とそのコア・コンポーネントを紹介します。より詳細な情報については、Logi Report のドキュメントをご覧ください。
 
+    《相談》字幕付けるかどうか
+
 - [演習環境付き演習（英語）:Getting Started with InterSystems Reports](https://learning.intersystems.com/course/view.php?name=GettingStartedInterSystemsReports) 
+
+    《相談》演習用PDFがあるのでこれを翻訳してラーニングパスから指したらできないこともない。作るかどうか[PDF](https://learning.intersystems.com/course/view.php?name=GettingStartedInterSystemsReports)
 
 - [ビデオ（英語）:InterSystems IRIS Adaptive Analytics Overview](https://learning.intersystems.com/course/view.php?id=1754)
 
-    これは岩本さんの説明ビデオは？
+    《相談》これは岩本さんの説明ビデオは？ただ、ラーニングパスでは軽く見てほし（＝短い）という要素があれば、上に字幕を付けるしかないかも。
+
     - [InterSystems IRIS Adaptive Analyticsのご紹介（2021年10月12日開催）](https://www.youtube.com/watch?v=8j6iqmT13XI&list=PLzSN_5VbNaxBlWFxRfrrrScerJrpo7xjr&index=3)
 
 - [オンラインコース（英語）：InterSystems IRIS Adaptive Analytics Essential](https://learning.intersystems.com/course/view.php?name=AdaptiveAnalyticsEssentials)
 
+    《相談》試してもらえる環境が登場するので、画面翻訳で使ってください。でいいかもしれない。
 
 
 ## 11. パフォーマンスとスピードの最適化
@@ -304,6 +342,8 @@ InterSystems Reports と InterSystems IRIS Adaptive Analytics は、レポート
 
     InterSystems IRIS®データ・プラットフォームの新しいオープン・ソース・ハイブリッド・トランザクション／アナリティカル・プロセッシング（HTAP）スピード・テスト・デモの使用方法をご紹介します。InterSystems IRIS が、リアルタイムのアプリケーション・クエリに答えながら、いかに大量のデータを取り込むことができるかをご覧いただけます。このビデオでは、HTAPスピードテストを使って、InterSystems IRISのパフォーマンスをMySQLやSAP HANAなどの他のデータベースと比較する方法を紹介しています。
 
+    《相談》字幕付けるかどうか。結構長めのビデオ（20分弱）
+
 - [ドキュメント：ミラーリングの構成](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GHA_MIRROR_SET_CONFIG)
 
 - [ドキュメント：高可用性を実現するためのフェイルオーバー方法](https://docs.intersystems.com/irislatestj/csp/docbook/Doc.View.cls?KEY=GHA_failover)
@@ -312,14 +352,33 @@ InterSystems Reports と InterSystems IRIS Adaptive Analytics は、レポート
 
     InterSystems IRIS® データ・プラットフォームの水平スケーラビリティ機能であるシャーディングについて学び、この機能を使ってシステム・パフォーマンスを向上させる方法を学びます。このコースには、2 つの説明レッスンといくつかのクイズ問題が含まれています。ビデオはフルスクリーンモードでご覧ください。
 
+    《相談》画面翻訳でお試しください、でいいかどうか。
+
 - [オンラインコース（英語）:Sharding Basics: Planning and Deploying](https://learning.intersystems.com/course/view.php?name=Sharding%20Basics)
 
     シャーディングは、システムの水平スケーリングに効果的なアプローチです。InterSystems IRIS® データ・プラットフォームを使ってシャーディング・クラスターを計画し、展開する方法をご紹介します。
 
     このコースには、2つの説明レッスンといくつかのクイズ問題が含まれています。ビデオとシミュレーションはフルスクリーンモードでご覧ください。
 
+    《相談》画面翻訳でお試しください、でいいかどうか。
+
 - [ドキュメント：分散キャッシュによるユーザ数に応じた水平方向の拡張](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GSCALE_ecp)
 
 ## 12. What's next
-省略
+
+If you would like to learn more, please see the resources below.
+
+- For more resources built for InterSystems partners, see the Partner Hub.
+
+    《相談》パートナーハブは日本で使ってるのかどうか
+
+- To learn how to set up IRIS with Docker on your own machine, watch the Run IRIS Community Edition Using Docker video (3m). 
+
+    《相談》 ここは以下コミュニティのビデオがある
+
+    [InterSystemsコンテナレジストリの使い方とコンテナ開始までの流れ（解説ビデオ付き）](https://jp.community.intersystems.com/node/545786)
+
+- InterSystems製品についての情報や質問は、[開発者コミュニティ](https://jp.community.intersystems.com/)まで
+
+- If you need technical help with your solution, contact the WRC.
 
