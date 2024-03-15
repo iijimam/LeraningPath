@@ -1,11 +1,10 @@
 # インプリメンテーションパートナ向けInterSystems製品をはじめよう（全業種向け）
 
-オリジナル：[https://learning.intersystems.com/course/view.php?id=1809](https://learning.intersystems.com/course/view.php?id=1809)
-
-
 このラーニング・パスでは、InterSystems® の概要、InterSystems 製品とテクノロジのアーキテクチャと機能について説明します。このパスに従うことで、コードの記述、システム統合を構築し、アプリケーションに必要なコンポーネントを作成することを学習できます。
 
-パートナーになることに興味がありますか？[インプリメンテーション・パートナー・プログラムの詳細](https://www.intersystems.com/jp/partners/implementation-partners/)をご覧ください。医療と金融のパートナーは、[インプリメンテーション・パートナー（医療）](https://learning.intersystems.com/course/view.php?id=1809) および[インプリメンテーション・パートナー（金融サービス）](https://learning.intersystems.com/mod/url/view.php?id=10341)のラーニング・パスで業界固有のコンテンツを見つけることができます。
+パートナーになることに興味がありますか？[インプリメンテーション・パートナー・プログラムの詳細](https://www.intersystems.com/jp/partners/implementation-partners/)をご覧ください。金融系パートナーは[インプリメンテーション・パートナー（金融サービス）](https://learning.intersystems.com/mod/url/view.php?id=10341)のラーニング・パスで業界固有のコンテンツを見つけることができます。
+
+※ 医療向けパスは削除されました・・
 
 >オリジナル[Getting Started with InterSystems for Implementation Partners (All Industries)
 Note](https://learning.intersystems.com/course/view.php?id=1809)
