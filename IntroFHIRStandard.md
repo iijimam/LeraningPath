@@ -17,21 +17,20 @@ HL7® FHIR® を世界をリードするヘルスケアデータ標準にして�
 ## 1. FHIRのコンセプトを理解する
 FHIRデータ標準を利用することで相互運用性をどのように向上させるかを学習します。
 
-**↓講演とかのっけていいのか？　それともオリジナルに日本語字幕を付けるかどうか**
+- オリジナル：[ビデオ（英語）：Improving Interoperability with FHIR](https://learning.intersystems.com/course/view.php?name=InteropFHIR)
 
-- [FHIRの解説と動向・課題・今後の展望（IHE 塩川康成様のご講演）](https://www.youtube.com/watch?v=BM_lJtMPdXg&list=PLgFt3CvX3OePNM4vVY2oer6hDNrJqgv1A)
+    **《相談》↓講演とかのっけていいのか？　それともオリジナルに日本語字幕を付けるかどうか**
 
-- [ビデオ（日本語字幕）:FHIR - 未来のために設計された医療データスタンダード "FHIR A Healthcare Data Standard Designed for the Future"](https://www.youtube.com/watch?v=gNjlaARboYk)
+    - [FHIRの解説と動向・課題・今後の展望（IHE 塩川康成様のご講演）](https://www.youtube.com/watch?v=BM_lJtMPdXg&list=PLgFt3CvX3OePNM4vVY2oer6hDNrJqgv1A)
 
-    >オリジナルの[Understanding the Concept of FHIR](https://learning.intersystems.com/course/view.php?name=ConceptOfFHIR)　同じ
+- オリジナル：[Understanding the Concept of FHIR](https://learning.intersystems.com/course/view.php?name=ConceptOfFHIR)
+
+    - [オリジナルと同じビデオ（日本語字幕付）:FHIR - 未来のために設計された医療データスタンダード "FHIR A Healthcare Data Standard Designed for the Future"](https://www.youtube.com/watch?v=gNjlaARboYk)
 
 
-- [ビデオ（日本語）：HL7® FHIR® × InterSystems IRIS for Health](https://www.youtube.com/watch?v=rbIF4z8xRIY&list=PLzSN_5VbNaxBu4kMgZrK5iGi-GIGNxvpu&index=1)
 
-> オリジナルは以下
-- [Improving Interoperability with FHIR](https://learning.intersystems.com/course/view.php?name=InteropFHIR)
+- その他： [ビデオ（日本語）：HL7® FHIR® × InterSystems IRIS for Health](https://www.youtube.com/watch?v=rbIF4z8xRIY&list=PLzSN_5VbNaxBu4kMgZrK5iGi-GIGNxvpu&index=1)
 
-- [Understanding the Concept of FHIR](https://learning.intersystems.com/course/view.php?name=ConceptOfFHIR)
 
 
 ## 2. FHIRの仕様を探る
@@ -42,13 +41,17 @@ FHIR仕様がデータをどのように保存し共有するかを定義され�
 
     HL7® FHIR® ヘルスケアデータ標準の概要と、FHIR標準仕様のウェブサイトナビゲート方法をご紹介しています。FHIRの標準化の目標、データの保存と共有方法の基本、仕様内のさまざまなデータモジュール間の関係について学びます。
 
-    ＜メモ＞以下日本語ビデオで対応できる？
+    《相談》 以下日本語ビデオで対応できるかどうか
     - [ビデオ（日本語）：FHIR+IRIS for Health 101](https://www.youtube.com/watch?v=S7PV3RIpMUM&list=PLzSN_5VbNaxBu4kMgZrK5iGi-GIGNxvpu&index=2)
 
 - [ビデオ（英語）：Organizing HL7 FHIR Resources](https://learning.intersystems.com/course/view.php?name=OrganizingFHIRResources)
 
+    《相談》字幕付けるだけでいいか。代わりになるいいものがあるか。
+
 ## 3. FHIRリソースの構造を理解する
 個々のFHIRリソースの構造、データ表現の一貫性を可能にするデータ型と用語バインディングについて、FHIR標準仕様のウェブサイトを使用しながら確認します。
+
+《相談》以下の内容どうするか。日本語の対応できるビデオはないので字幕を付けるかどうか。もしくは一般的な内容なので世の中にある情報にリンクするとか？
 
 - [ビデオ（英語）：Understanding the Structure of HL7 FHIR Resources](https://learning.intersystems.com/course/view.php?name=StructureFHIRResources)
 
@@ -63,23 +66,31 @@ FHIR仕様がデータをどのように保存し共有するかを定義され�
 ## 4. FHIRデータモデルを構築する
 FHIRプロファイルと実装ガイド、FHIR shorthand を詳しく見て、FHIRデータアーキテクチャの学習します。
 
+《相談》全て英語なので日本語字幕を付けたらいいのか。他で代用できるものがあるのか。
+
 - [ビデオ（英語）:Understanding HL7 FHIR Profiles](https://learning.intersystems.com/course/view.php?name=FHIRProfiles)
 
 - [ビデオ（英語）：What Are HL7 FHIR Implementation Guides?](https://learning.intersystems.com/course/view.php?name=FHIRIGs)
 
 - [ビデオ（英語）：Using HL7 FHIR Shorthand](https://learning.intersystems.com/course/view.php?name=FHIRShorthand)
 
-- [演習環境付き演習（英語）：Building a FHIR Data Architecture](https://learning.intersystems.com/course/view.php?id=2279)
+    《相談》日本語の記事で対応させるかどうか
+
+    - [SUSHIを使ってFHIRプロファイルを作成しようパート1](https://jp.community.intersystems.com/node/493351)
+
+    - [SUSHIを使ってFHIRプロファイルを作成しようパート2](https://jp.community.intersystems.com/node/506271)
+
+
+- [演習環境付き演習（英語）のオンラインコース：Building a FHIR Data Architecture](https://learning.intersystems.com/course/view.php?id=2279)
 
     HL7® FHIR® アーキテクチャとその基礎となるデータモデルの基礎を学びます。この演習では、InterSystems がサポートする Graph Builder 2 (GB2) アプリを使用して、FHIR を使用した開発の基礎となる FHIR データアーキテクチャの構築を開始します。
 
-    > 2年前？のSEサミットか何かで操作したブラウザ上でリソースを作るツールを使う演習。FSHエディタの操作もある。画面翻訳したらできる感じ？
-
+    《相談》2年前？のSEサミットか何かで操作したブラウザ上でリソースを作るツールを使う演習。FSHエディタの操作もある。画面翻訳したらできるけど、それでいいのかどうか
 
 ## 5. FHIRの実践を理解する
 医療システム間のセマンティック相互運用性について学び、FHIR分野で最もよくある質問を調査する。
 
-    対応するものがないので翻訳つけるだけでいいか、日本語用に何か作るか
+  《相談》  対応するものがないので翻訳つけるだけでいいか、日本語用に何か作るか
 
 ＜オリジナル＞
 - [Achieving True Interoperability in Healthcare Systems](https://learning.intersystems.com/course/view.php?id=2203) 
