@@ -38,7 +38,7 @@ InterSystems製品の組み込み言語である InterSystems ObjectScript を�
 - IRIS SQLの基本操作
 - 簡単なアプリケーションテーマに合わせたクラス定義、メソッド、データの作成
 
-### （対応できそうな）対象コンテンツ
+### 《相談》（対応できそうな）対象コンテンツがあるけど以下でいいのかどうか。
 
 以下動画から、IRISの開発環境の作成方法、ネームスペース／データベースについて、IDEからIRISに接続する方法を確認できます。
 - [【はじめての InterSystems IRIS】セルフラーニングビデオ：基本その2：InterSystems IRIS で開発をはじめよう！](https://jp.community.intersystems.com/node/478601)
@@ -50,9 +50,12 @@ InterSystems製品の組み込み言語である InterSystems ObjectScript を�
 - [InterSystems Objectのトレーニングコース（２日間）](https://www.intersystems.com/jp/intersystems-object/)
 
 ## 2. オブジェクトの作成とSQLの利用
-> オリジナル[InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)／[InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
+- オリジナル[（オンラインコース：英語）InterSystems IRIS Objects Introduction](https://learning.intersystems.com/enrol/index.php?id=2225)
+- オリジナル[（オンラインコース：英語）InterSystems SQL Overview](https://learning.intersystems.com/enrol/index.php?id=960)
 
 オブジェクトを作成、保存、ロード、および削除するメソッドを使用し、ObjectScript メソッド内で SQL を使用します。
+
+《相談》以下ビデオで似たようなことを解説してるけどそれでいいのか　
 
 以下動画から、クラス定義の作成からインスタンス生成、保存までの流れを確認できます。
 - [【はじめての InterSystems IRIS】セルフラーニングビデオ：基本その3：IRIS でクラス定義を作ろう（オブジェクト操作の練習）](https://jp.community.intersystems.com/node/478606)
@@ -65,12 +68,18 @@ InterSystems製品の組み込み言語である InterSystems ObjectScript を�
 
 - [ドキュメント：クラス・プログラミングの基本的な考え方](https://docs.intersystems.com/irislatestj/csp/docbook/DocBook.UI.Page.cls?KEY=GOBJ_intro)
 
+    このDocはオリジナルと同じ
+
 ## 3. アプリケーションの作成練習
 このパスで学んだスキルを結集して、小さなデータベースアプリケーションを作成しましょう。
 
 [オンラインコース：Learning Path Exercise: Building a Server-Side Application with InterSystems IRIS（英語）](https://learning.intersystems.com/course/view.php?name=Server-Side%20Application%20Exercise)
 
+《相談》この対応するものがない。コースぐらい
+
 ## 4. 確認
 この最終アセスメントで知識を証明し、バッジを獲得しましょう。このアセスメントにアクセスするには、上記のパスにあるすべてのリソースを完了する必要があります。
 
-→これは日本では別コンテンツを指してるから無理っぽい。
+> メモ：オンラインラーニングのサイト上で小テストが英語で出ます（10問程度）
+
+《相談》画面翻訳で対応できるのかどうか・・

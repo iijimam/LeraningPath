@@ -8,7 +8,6 @@ InterSystems ObjectScript でInteroperability（相互運用性機能）のカ�
 
 InterSystems ObjectScript の使用経験があることを前提としています。必要に応じて、[ObjectScript ラーニング・パス](/ObjectScript.md) を参照してください。
 
->オリジナルのObjectScriptラーニング・パスの先：https://learning.intersystems.com/course/view.php?id=289
 
 ![](/assets/BuildingCustomIntegrations.png)
 
@@ -21,17 +20,23 @@ InterSystems ObjectScript の使用経験があることを前提としていま
 
 - [オンラインコース：Receiving and Routing Data in a Production（英語）](https://learning.intersystems.com/course/view.php?name=Interop%20QS)
 
-- [チュートリアル：InterSystems Interoperability（相互運用性）チュートリアル](https://play.instruqt.com/embed/intersystems/tracks/interop-jp?token=em_nMyn9Z_6s9Tq3KTv)
+    《相談》日本語字幕ついてるページだけど、演習内容は画面翻訳が必要。どう対応するか
+
+    例えば、チュートリアルに振ってしまうとか？既存記事を使うとか
+
+    それでいいのかどうか
+
+    - [チュートリアル：InterSystems Interoperability（相互運用性）チュートリアル](https://play.instruqt.com/embed/intersystems/tracks/interop-jp?token=em_nMyn9Z_6s9Tq3KTv)
+        
+        事前準備なしでブラウザ上でお試しいただけます。
+
+    - ビデオ：[Interoperability概要](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX&index=1&t=1203s)
+
+    - シリーズ記事
     
-    事前準備なしでブラウザ上でお試しいただけます。
+    - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：動作の仕組みを知ろう](https://jp.community.intersystems.com/node/483036)
 
-- ビデオ：[Interoperability概要](https://www.youtube.com/watch?v=vo12UnH-c-s&list=PLzSN_5VbNaxD-r8wU4LHwLwGSzUjrffEX&index=1&t=1203s)
-
-- シリーズ記事
-   
-   - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：動作の仕組みを知ろう](https://jp.community.intersystems.com/node/483036)
-
-   - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：プロダクションとは](https://jp.community.intersystems.com/node/483041)
+    - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：プロダクションとは](https://jp.community.intersystems.com/node/483041)
 
 
 ## 2. メッセージの作成
@@ -42,7 +47,7 @@ InterSystems ObjectScript の使用経験があることを前提としていま
 
     ↑字幕なし
 
-    上記ビデオに対応しそうな記事👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
+    《相談》上記ビデオに対応しそうな記事（記事でいいのかどうか）👉　[【はじめてのInterSystems IRIS】Interoperability（相互運用性）：メッセージ](https://jp.community.intersystems.com/node/483131)
 
 ## 3. カスタムコンポーネントのデザイン
 
@@ -55,7 +60,8 @@ InterSystems ObjectScript の使用経験があることを前提としていま
 
 - [オンラインコース（英語）：Building Custom Business Services (1h 30m)](https://learning.intersystems.com/enrol/index.php?id=2031)
 
-《サンプルと記事を読みながら学習する場合》
+《相談》サンプルと記事を読みながら学習する方法でいいならば以下。
+
 ※オンラインコースのほうが説明が浅く広い（HL7系の話も少し含まれてる）
 
 - [【はじめてのInterSystems IRIS】Interoperability（相互運用性）：コンポーネントの作成（ビジネス・オペレーション）](https://jp.community.intersystems.com/node/483136)
@@ -69,3 +75,4 @@ InterSystems ObjectScript の使用経験があることを前提としていま
    - [REST経由で情報を入力する場合の Interoperability（相互運用性機能）のサンプル](https://jp.community.intersystems.com/node/559356)
 
 ## 4. 確認
+
